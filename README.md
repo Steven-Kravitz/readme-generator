@@ -20,6 +20,8 @@ Clone a copy of this repo to your local machine through your terminal of choice.
 
 Open this file in your integrated terminal and run node index.js. This will begin the prompt line from inquirer. Answer the questions with the information you would like inputted to your README. Upon receiving the message 'README successfully generated!' you will be finished.
 
+[![Video Walkthrough](assets\READMEVideo.gif)](https://watch.screencastify.com/v/Ig7ZdAYjUCbmnzd2RCWz)
+
 ## Credits
 
 README Template pulled from https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide.
